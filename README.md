@@ -1,1 +1,0 @@
-# jlcolbert.github.io
