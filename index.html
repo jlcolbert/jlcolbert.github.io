@@ -1,24 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="UTF-8">
-		<title>wilde at heart</title>
-		<!-- <link rel="icon" href="favicon.ico?" type="image/x-icon"> -->
-		<!-- <link rel="stylesheet" href="style.css"/> -->
-	</head>
-	<body>
-		<article style="border: none;">
-			<div style="
-				height: 100vh;
-			    display: flex;
-			    justify-content: center;
-			    align-items: center;
-			">
-		    	<div>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>wilde at heart</title>
+    <style type="text/css">
+      body {
+        margin: 40px auto;
+        max-width: 650px;
+        line-height: 1.6;
+        font-size: 18px;
+        color: #444;
+        background-color: #eeeeee;
+        padding: 0 10px;
+        font-family: serif;
+      }
+      h1,
+      h2,
+      h3 {
+        line-height: 1.2;
+      }
+    </style>
+    <script data-dapp-detection="">
+      !(function () {
+        let e = !1;
+        function n() {
+          if (!e) {
+            const n = document.createElement("meta");
+            (n.name = "dapp-detected"), document.head.appendChild(n), (e = !0);
+          }
+        }
+        if (window.hasOwnProperty("ethereum")) {
+          if (
+            ((window.__disableDappDetectionInsertion = !0),
+            void 0 === window.ethereum)
+          )
+            return;
+          n();
+        } else {
+          var t = window.ethereum;
+          Object.defineProperty(window, "ethereum", {
+            configurable: !0,
+            enumerable: !1,
+            set: function (e) {
+              window.__disableDappDetectionInsertion || n(), (t = e);
+            },
+            get: function () {
+              if (!window.__disableDappDetectionInsertion) {
+                const e = arguments.callee;
+                (e &&
+                  e.caller &&
+                  e.caller.toString &&
+                  -1 !== e.caller.toString().indexOf("getOwnPropertyNames")) ||
+                  n();
+              }
+              return t;
+            },
+          });
+        }
+      })();
+    </script>
+  </head>
 
-            I am testing a landing page for my <a href="/notes/">digital garden</a>.
-		    	</div>
-			</div>
-		</article>
-	</body>
+  <body>
+    <header>wilde at heart</header>
+    <article style="border: none">
+      <div
+        style="
+          height: 100vh;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        "
+      >
+        <p>
+          The personal & semi-professional website of
+          <a href="/about">Jay L. Colbert</a>.
+        </p>
+        <p>View my <a href="/cv">CV</a>.</p>
+        <p>Visit my <a href="/notes">digital garden.</a></p>
+      </div>
+    </article>
+  </body>
 </html>
