@@ -20,6 +20,21 @@
       h3 {
         line-height: 1.2;
       }
+      a {
+        color: #444;
+      }
+      article a:not([href*=":"])::before {
+        content: "{";
+      }
+      article a:not([href*=":"])::after {
+        content: "}";
+      }
+      article a[href*=":"]::before {
+        content: "[";
+      }
+      article a[href*=":"]::after {
+        content: "]";
+      }
     </style>
     <script data-dapp-detection="">
       !(function () {
@@ -70,7 +85,8 @@
           height: 100vh;
           display: flex;
           justify-content: center;
-          align-items: center;
+          align-items: flex-end;
+          flex-direction: column;
         "
       >
         <p>
