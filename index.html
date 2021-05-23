@@ -4,39 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>wilde at heart</title>
-    <style type="text/css">
-      body {
-        margin: 40px auto;
-        max-width: 650px;
-        line-height: 1.6;
-        font-size: 18px;
-        color: #444;
-        background-color: #eeeeee;
-        padding: 0 10px;
-        font-family: serif;
-      }
-      h1,
-      h2,
-      h3 {
-        line-height: 1.2;
-      }
-      a {
-        color: #444;
-        text-decoration: none;
-      }
-      article a:not([href*=":"])::before {
-        content: "{";
-      }
-      article a:not([href*=":"])::after {
-        content: "}";
-      }
-      article a[href*=":"]::before {
-        content: "[";
-      }
-      article a[href*=":"]::after {
-        content: "]";
-      }
-    </style>
+    <link rel="stylesheet" href="style.css" />
     <script data-dapp-detection="">
       !(function () {
         let e = !1;
@@ -79,11 +47,11 @@
   </head>
 
   <body>
-    <header>wilde at heart</header>
+    <header><h1>wilde at heart</h1></header>
     <article style="border: none">
       <div
         style="
-          height: 100vh;
+          height: 75vh;
           display: flex;
           justify-content: center;
           align-items: flex-end;
