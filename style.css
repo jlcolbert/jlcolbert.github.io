@@ -4,8 +4,8 @@ body {
   max-width: 650px;
   line-height: 1.6;
   font-size: 18px;
-  color: #444;
-  background-color: #eeeeee;
+  color: #3b4252;
+  background-color: #eceff4;
   padding: 0 10px;
   font-family: serif;
 }
@@ -15,7 +15,7 @@ h3 {
   line-height: 1.2;
 }
 a {
-  color: #444;
+  color: #3b4252;
   text-decoration: none;
 }
 article a:not([href*=":"])::before {
