@@ -1,9 +1,10 @@
 ---
 date: 2022-05-08
+category: info
 weight: 2
 title: Zettelkasten
 tags:
-categories:
+categories: info
 lastMod: 2022-05-08
 ---
 ### What is a Zettelkasten?
