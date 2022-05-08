@@ -1,6 +1,7 @@
 ---
 date: 2022-05-08
 category: info
+weight: 1
 title: digital garden
 tags:
 categories: info

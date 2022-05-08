@@ -1,4 +1,4 @@
-baseURL: https://jlcolbert.github.io
+baseURL: https://wilde-at-heart.garden
 languageCode: en-us
 title: jay l. colbert
 theme: "PaperMod"
@@ -20,21 +20,19 @@ params:
     # - name: "rss"
     #   url: "https://XXX.github.io/index.xml"
   ShowReadingTime: true
+  ShowPostNavLinks: true
   author: "jay l. colbert"
   contact: "jaylcolbert@gmail.com"
   feedlinks: true
   copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
   mobileMenu: true
+  defaultTheme: auto
 
 outputs:
   home:
     - HTML
     - RSS
     - JSON # is necessary
-  section:
-    - HTML
-    - RSS
-    - JSON
 
 menu:
   main:
