@@ -12,8 +12,8 @@ lastMod: 2022-05-08
 
 id:: 627824d3-e8fc-439e-983a-503ed4ff2ecf
 heading:: true
-> For all of human history knowledge has been controlled and held by the elite and powerful and privileged.
-—Carrie Ben-Ysrael
+> *For all of human history knowledge has been controlled and held by the elite and powerful and privileged.*
+*—Carrie Ben-Ysrael*
 
 When we have control over how we relate to information and knowledge, that can be a radical act.
 
