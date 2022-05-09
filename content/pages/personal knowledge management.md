@@ -6,7 +6,7 @@ tags:
 categories: seedling
 lastMod: 2022-05-08
 ---
-- 🌱 *seedling*
+🌱 *seedling*
 
 -----
 
