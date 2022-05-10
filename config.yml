@@ -20,7 +20,7 @@ params:
     # - name: "rss"
     #   url: "https://XXX.github.io/index.xml"
   ShowReadingTime: true
-  ShowPostNavLinks: true
+  # ShowPostNavLinks: true
   author: "jay l. colbert"
   contact: "jaylcolbert@gmail.com"
   feedlinks: true
