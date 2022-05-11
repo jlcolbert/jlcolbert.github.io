@@ -19,8 +19,15 @@ params:
     #   url: "https://buymeacoffee.com/XXX"
     # - name: "rss"
     #   url: "https://XXX.github.io/index.xml"
+    - name: "webring"
+      url: "https://webring.xxiivv.com/#wilde-at-heart"
   ShowReadingTime: true
+  ShowShareButtons: true
   # ShowPostNavLinks: true
+  editPost:
+        URL: "https://github.com/jlcolbert/jlcolbert.github.io/blob/main/content"
+        Text: "Suggest Changes" # edit text
+        appendFilePath: true # to append file path to Edit link
   author: "jay l. colbert"
   contact: "jaylcolbert@gmail.com"
   feedlinks: true
