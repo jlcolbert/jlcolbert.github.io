@@ -553,11 +553,16 @@
     <polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"></polygon>
 </svg>
 {{- else if (eq $icon_name "webring") -}}
+<picture>
+    <source
+    srcset="https://webring.xxiivv.com/icon.white.svg"
+    media="(prefers-color-scheme: dark)">
     <img
       src="https://webring.xxiivv.com/icon.black.svg"
       alt="XXIIVV webring"
       style="width: 30px; height: 30px; display: inherit;"
     />
+</picture>
 {{- else if $icon_name -}}
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
     stroke-linecap="round" stroke-linejoin="round">
