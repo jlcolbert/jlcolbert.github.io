@@ -6,7 +6,7 @@ format: article
 showtoc: true
 tags:
 categories: blog
-lastMod: 2022-05-09
+lastMod: 2022-05-11
 ---
 Every time I search a note-taking tool online, I inevitably see it: "Using insert-tool-here to build my second brain" or some variation on that theme. The video or blog post will always go over the basics of what a second brain is, and it usually mentions that the person took Tiago Forte's [Building a Second Brain course](https://www.buildingasecondbrain.com/).
 
