@@ -2,10 +2,11 @@
 title: Describing Absence The Complicated Power of Metadata Surrogates in Libraries and Archives
 tags:
 - description and power
-- Projects
+- presentations
 date:
 - May 17th, 2022
 showtoc: true
+format: article
 categories:
 lastMod: 2022-05-17
 ---
