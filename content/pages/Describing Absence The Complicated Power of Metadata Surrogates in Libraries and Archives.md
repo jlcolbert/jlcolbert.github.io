@@ -5,18 +5,15 @@ tags:
 - presentations
 date:
 - May 17th, 2022
+category: blog
 showtoc: true
 format: article
-categories:
-lastMod: 2022-05-17
+categories: blog
+lastMod: 2022-05-18
 ---
-🌳 _evergreen_[^1]
+> These are the speaker notes of a talk I gave at the [New Hampshire Archives Group Spring 2022 Workshop](https://web.archive.org/web/20220518013152/https://www.nhag.org/announcement-s22.html) on [[May 17th, 2022]][^1]
 
 [^1]: However, I will be retroactively making Zettels for my [Zettelkasten]({{< ref "Zettelkasten" >}}) out of the points I make here, and then some.
-
------
-
-> These are the speaker notes of a talk I gave at the [New Hampshire Archives Group Spring 2022 Workshop](https://web.archive.org/web/20220518013152/https://www.nhag.org/announcement-s22.html) on [[May 17th, 2022]]
 
 Good afternoon, everyone. Thank you for coming to my presentation when you could just leave and go outside. My name is Jay L. Colbert, and today I'll be presenting "Describing Absence: The Complicated Power of Metadata Surrogates in Libraries & Archives"
 
@@ -54,7 +51,7 @@ Please forgive me if this first definition seems elementary. We've all heard the
 
 Instead, I like the definition from the Getty book Introduction to Metadata. Thanks to Elliot Williams who assigns sections of this book in his Metadata and Description for Digital Special Collections Library Juice Academy course.
 
-> "Perhaps a more useful, “big picture” way of thinking about metadata is as the sum total of what one can say at a given moment about]any information object at any level of aggregation.1 In this context, an information object is anything that can be addressed and manipulated as a discrete entity by a human being or an information system. The object may be a single item, an aggregate of many items, or an entire database or record-keeping system. Indeed, in any given instance one can expect to find metadata relevant to any information object existing simultaneously at the item, aggregate, and system levels."[^2]
+> "Perhaps a more useful, “big picture” way of thinking about metadata is as the sum total of what one can say at a given moment about any information object at any level of aggregation. In this context, an information object is anything that can be addressed and manipulated as a discrete entity by a human being or an information system. The object may be a single item, an aggregate of many items, or an entire database or record-keeping system. Indeed, in any given instance one can expect to find metadata relevant to any information object existing simultaneously at the item, aggregate, and system levels."[^2]
 
 [^2]: [[@Setting the Stage]], [Introduction to Metadata](https://www.getty.edu/publications/intrometadata/setting-the-stage/)
 
@@ -134,7 +131,7 @@ Facebook, Google, Amazon, and loads of other corporations track your browsing ha
 
 Facebook can do this even if you don't have a Facebook account.
 
-In a capitalist society, governments and corporations construct surrogates of us from the data mine. And in a capitalist society, that data surrogate is more "real" and has more value than we do because it makes them money.
+In a capitalist society, governments and corporations construct surrogates of us from the data they mine. And in a capitalist society, that data surrogate is more "real" and has more value than we do because it makes them money.
 
 Everything about us is exploited, and we do not even know the true extent of that exploitation. Except that it can absolutely be used against us when we are no longer valuable.
 
@@ -163,9 +160,7 @@ In 2010, Ed Moloney released a book which used Hughes' tapes. And in that was in
 
 Then there's the Histories of Choice collection at Florida Gulf University, "an ethnographic recollection of Roe v. Wade that provides historical context of different perspectives and lived experiences centered around the theme of abortion." The issue: some of these oral histories contain information from when abortion was criminalized. And in our current climate, and even in some states currently, the information that might not be criminalized now could be in the future. How do we ensure access, including with our descriptive metadata, that will not result in criminalization? What is the statute of limitations? How can we protect these people?
 
-Their solution:
-
-> ...staff members who were comfortable with the subject matter redacted PII: name, age, location, hometown, graduation year, etc. Then they would swap transcripts and do the redaction process again. The names of participants were also removed from all master metadata and accession records. All previous versions of the transcripts were deleted, as were the original audio recordings. The public record of the project is the only record in existence; there is no additional data for a legal entity to subpoena.[^8]
+Their solution: staff members who were comfortable with the subject matter redacted PII: name, age, location, hometown, graduation year, etc. Then they would swap transcripts and do the redaction process again. The names of participants were also removed from all master metadata and accession records. All previous versions of the transcripts were deleted, as were the original audio recordings. The public record of the project is the only record in existence; there is no additional data for a legal entity to subpoena.[^8]
 
 [^8]: [[@Testimonies: The rewards and challenges of letting their voices be heard]]
 
