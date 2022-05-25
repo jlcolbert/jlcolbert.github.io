@@ -9,7 +9,7 @@ category: blog
 showtoc: true
 format: article
 categories: blog
-lastMod: 2022-05-18
+lastMod: 2022-05-17
 ---
 > These are the speaker notes of a talk I gave at the [New Hampshire Archives Group Spring 2022 Workshop](https://web.archive.org/web/20220518013152/https://www.nhag.org/announcement-s22.html) on [[May 17th, 2022]][^1]
 
@@ -132,13 +132,11 @@ Facebook, Google, Amazon, and loads of other corporations track your browsing ha
 Facebook can do this even if you don't have a Facebook account.
 
 In a capitalist society, governments and corporations construct surrogates of us from the data they mine. And in a capitalist society, that data surrogate is more "real" and has more value than we do because it makes them money.
-
 Everything about us is exploited, and we do not even know the true extent of that exploitation. Except that it can absolutely be used against us when we are no longer valuable.
 
 ## ...and when it's good
 
 Therefore, it is not always a bad thing to have silences in our collections. Sometimes, those silences are necessary.
-
 ### Privacy and legality
 
 We have two examples of archives and special collections potentially (and actually) exposing the participants of oral histories to criminalization.
@@ -179,7 +177,6 @@ This could also apply to other scenarios, such as oral histories of domestic abu
 ### Giving space back
 
 Not every culture, group, or community is going to have the same knowledge management, knowledge transmission, or knowledge organization systems as the dominant library/archival science framework. There are oral traditions of music transmission, there are Tibetan Buddhist practices that are only shared between lama and student in an unending lineage back to the Buddha, there are traditions where information is only shared within that group.
-
 I am not one who advocates for our default diversity, equity, and inclusion response to be absorbing the systems of other cultures into our own, creating a mono-system. Instead, I advocate for giving space back to these other ways of describing information, as well as working with communities to see where sharing and collaboration can happen with mutual trust.[^9]
 
 [^9]: Fun fact: in order to be a professionally registered librarian in Aotearoa (New Zealand), [you have to demonstrate competency in Māori knowledge systems](https://lianza.org.nz/professional-development/professional-registration/bodies-of-knowledge-bok/#cluster-six).
@@ -199,7 +196,6 @@ An example and analysis I love comes from the article [[@Archiving the Wonders o
 I cannot get enough of the idea that a trans man documenting his transition and experience with HRT via YouTube is creating metadata from, with, and of his body. If metadata is the sum total of what can be said about any information object at any given time, then the bodies of trans people undergoing medical forms of transition are living, always-changing metadata records. They are the information object, and they are also what can be said about the information object.
 
 **My transsexual body is a catalog, a finding aid, of every testosterone injection I have given myself in my thigh, of the parts of my body I have willingly destroyed to create something better in their wake, of the process of teaching myself to shave my face (which is way different than shaving your legs, it turns out), of the ways my sexuality changed, of the hours of speech and movement therapy I did, of the fact that I'm still afraid to use gendered bathrooms in public after 4 years.**
-
 _That_ cannot be represented in a finding aid, no matter how hard we might try. I'm not saying we shouldn't try, but I think we need to admit our shortcomings and accept them.
 
 I also want us to think about representation, and why we're trying to put it in our metadata. Is it to actually connect with communities? Or is it to go along with the thing you think is right because you saw three other institutions do it on Twitter and you don't want to look bad?
