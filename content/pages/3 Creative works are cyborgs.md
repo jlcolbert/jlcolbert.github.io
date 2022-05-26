@@ -1,6 +1,5 @@
 ---
-date:
-- May 26th, 2022
+date: 2022-05-26
 tags:
 - cyborgs
 - assemblages

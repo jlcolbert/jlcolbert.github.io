@@ -1,6 +1,5 @@
 ---
-date:
-- May 25th, 2022
+date: 2022-05-25
 category:
 - Zettelkasten
 - evergreen
@@ -9,7 +8,7 @@ tags:
 categories:
 - Zettelkasten
 - evergreen
-lastMod: 2022-05-25
+lastMod: 2022-05-26
 ---
 If metadata is the sum total of what can be said about any information object at any given time, then the bodies of trans people undergoing medical forms of transition are living, always-changing metadata records. They are the information object, and they are also what can be said about the information object.
 

@@ -1,6 +1,5 @@
 ---
-date:
-- May 25th, 2022
+date: 2022-05-25
 category:
 - Zettelkasten
 - evergreen
@@ -9,7 +8,7 @@ tags:
 categories:
 - Zettelkasten
 - evergreen
-lastMod: 2022-05-25
+lastMod: 2022-05-26
 ---
 Those in power and who hold capital will destroy, distort, and otherwise purposefully not collect information and create metadata about those they wish to silence and remove from any sort of historical record.
 

@@ -1,6 +1,5 @@
 ---
-date:
-- May 25th, 2022
+date: 2022-05-25
 category:
 - Zettelkasten
 - evergreen
@@ -9,7 +8,7 @@ tags:
 categories:
 - Zettelkasten
 - evergreen
-lastMod: 2022-05-25
+lastMod: 2022-05-26
 ---
 In a capitalist society, governments and corporations construct surrogates of us from the data they mine. And in a capitalist society, that data surrogate is more "real" and has more value than we do because it makes them money.
 
