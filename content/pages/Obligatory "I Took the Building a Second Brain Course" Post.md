@@ -6,7 +6,7 @@ format: article
 showtoc: true
 tags:
 categories: blog
-lastMod: 2022-05-13
+lastMod: 2022-05-25
 ---
 Every time I search a note-taking tool online, I inevitably see it: "Using insert-tool-here to build my second brain" or some variation on that theme. The video or blog post will always go over the basics of what a second brain is, and it usually mentions that the person took Tiago Forte's [Building a Second Brain course](https://www.buildingasecondbrain.com/).
 
@@ -57,9 +57,9 @@ I capture information in four ways, depending on what the information is and why
 
 I use the PARA[^5] system anywhere I have notes of any kind. I even use it in my task manager. Mostly, things live in Evernote. It's like a big filing cabinet, and I like it for keeping project notes all together. I didn't think I would like it as much as I do (remember, I hate folders and tags), but because I'm not trying to link thoughts together, I like it just fine.
 
-![Project_Screenshot.png](/assets/project_screenshot_1652146798104_0.png)
+![project_screenshot_1652146798104_0.png](/assets/project_screenshot_1652146798104_0_1653531483258_0.png)
 
-![Resource_Screenshot.png](/assets/resource_screenshot_1652146806745_0.png)
+![resource_screenshot_1652146806745_0.png](/assets/resource_screenshot_1652146806745_0_1653531493624_0.png)
 
 #### Distill
 
