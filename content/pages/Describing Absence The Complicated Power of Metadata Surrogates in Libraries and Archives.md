@@ -9,7 +9,7 @@ category: blog
 showtoc: true
 format: article
 categories: blog
-lastMod: 2022-05-17
+lastMod: 2022-05-26
 ---
 > These are the speaker notes of a talk I gave at the [New Hampshire Archives Group Spring 2022 Workshop](https://web.archive.org/web/20220518013152/https://www.nhag.org/announcement-s22.html) on [[May 17th, 2022]][^1]
 
@@ -53,7 +53,7 @@ Instead, I like the definition from the Getty book Introduction to Metadata. Tha
 
 > "Perhaps a more useful, “big picture” way of thinking about metadata is as the sum total of what one can say at a given moment about any information object at any level of aggregation. In this context, an information object is anything that can be addressed and manipulated as a discrete entity by a human being or an information system. The object may be a single item, an aggregate of many items, or an entire database or record-keeping system. Indeed, in any given instance one can expect to find metadata relevant to any information object existing simultaneously at the item, aggregate, and system levels."[^2]
 
-[^2]: [[@Setting the Stage]], [Introduction to Metadata](https://www.getty.edu/publications/intrometadata/setting-the-stage/)
+[^2]: [[@Setting the Stage]] , [Introduction to Metadata](https://www.getty.edu/publications/intrometadata/setting-the-stage/)
 
 For example, your driver's license, if you have one, has metadata that describes you. But if you move, get a different class of license, etc, in ten years, that metadata will change.
 

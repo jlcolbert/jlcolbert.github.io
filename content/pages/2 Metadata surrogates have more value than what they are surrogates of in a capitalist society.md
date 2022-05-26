@@ -17,4 +17,4 @@ In a capitalist society, governments and corporations construct surrogates of us
 -----
 
 - Therefore, it is not always a bad thing to have silences in our collections. Sometimes, those silences are necessary.
-: [1a Archival silence is a good thing when its purpose is protection]({{< ref "1a Archival silence is a good thing when its purpose is protection" >}})
+ - [1a Archival silence is a good thing when its purpose is protection]({{< ref "1a Archival silence is a good thing when its purpose is protection" >}})
