@@ -35,6 +35,11 @@ params:
   mobileMenu: true
   defaultTheme: auto
 
+markup:
+  highlight:
+    guessSyntax: true
+    style: dracula
+
 outputs:
   home:
     - HTML
