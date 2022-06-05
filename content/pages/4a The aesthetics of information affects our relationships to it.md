@@ -14,7 +14,7 @@ lastMod: 2022-05-29
 ---
 The visual components of both information and how we interact with information (such as using arrows to draw connections in the quotation below) reinforce the sensual aspect of working with information, knowledge, and metadata.
 In particular, this person's statement that they make their "thoughts hold hands" brings a physical and almost erotic element to how they visualize the network of their thinking.
-
+id:: 2a27dc66-c658-49f2-82f7-091907342193
 > i love arrows -> and drawing connections -> noticing patterns -> making my thoughts hold hands ->[^1]
 
 [^1]: [tumblr post](https://oneweekmp3.tumblr.com/post/685517047288004608)

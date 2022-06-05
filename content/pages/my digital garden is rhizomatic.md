@@ -1,10 +1,11 @@
 ---
 date: 2022-05-11
 category: seedling
-title: my digital garden is rhizomatic
 tags:
+- rhizomes
+title: my digital garden is rhizomatic
 categories: seedling
-lastMod: 2022-05-25
+lastMod: 2022-05-30
 ---
 🌱 *budding* and almost ready to split into Zettels
 

@@ -9,7 +9,6 @@ categories: art
 lastMod: 2022-05-28
 ---
 ![img-0-1653694686032-13503577833208.jpg](/assets/img-0-1653694686032-13503577833208_1653763927411_0.jpg)
-
 I made this piece as part of the "Concentrated Creativity" BASB alumni sprint.
 
 It is a piece of generative art made with the Clojure programming language and the Quil and genartlib libraries. The base code is inspired by the [Golden Ratio Flower by Jack Rusher](http://quil.info/sketches/show/example_golden-ratio-flower).
