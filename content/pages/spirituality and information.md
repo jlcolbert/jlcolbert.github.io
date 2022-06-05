@@ -31,7 +31,7 @@ I've also encountered some pieces by Bob Doto recently that discuss spirituality
 
 This all has me thinking about spirituality as practice and information management as practice. Questions I'm thinking about:
 
-- If we use tools and systems to meet specific needs in information management, are we also using tools and systems to meet specific needs in information management, or is the spiritual practice the tool which is meeting a need?
+- If we use tools and systems to meet specific needs in information management, are we also using tools and systems to meet specific needs in spiritual practice, or is the spiritual practice the tool which is meeting a need?
 
 - What information management practices are there in various spiritual practices?
 
