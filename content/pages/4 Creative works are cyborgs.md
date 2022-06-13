@@ -19,7 +19,7 @@ As Tiago Forte says in the tweet below, creative work is _assembled_. Philosophi
 
 Therefore, when we create something, we are assembling a cyborg rather than reinforcing the boundaries of our inspirations and our ideas.
 
-{{< tweet user="fortelabs" id="1529394868048515072" >}}
+{{tweet https://twitter.com/fortelabs/status/1529394868048515072?s=20&t=nlrz1Ncs0l1-5Q9tMIUF1Q}}
 
 > Assemblage (from French: agencement, "a collection of things which have been gathered together or assembled") is a concept developed by Gilles Deleuze and Félix Guattari, originally presented in their book A Thousand Plateaus (1980). Assemblage theory frames social complexity in the emphasis of fluidity, exchangeability, and the multiple functions through entities that create their connectivity. Assemblage theory asserts that, within a body, the relationships of component parts are not stable and fixed; rather, they can be displaced and replaced within and among other bodies, thus approaching systems through relations of exteriority. [^3]
 

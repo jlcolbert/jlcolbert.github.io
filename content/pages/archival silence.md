@@ -5,13 +5,15 @@ category: seedling
 title: archival silence
 tags:
 categories: seedling
-lastMod: 2022-06-12
+lastMod: 2022-06-13
 ---
 🌱 *seedling*
 
 -----
 
 **archival silence**
+{{< logseq/orgQUOTE >}}the unintentional or purposeful absence or distortion of documentation of enduring value, resulting in gaps and inabilities to represent the past accurately[^1]{{< / logseq/orgQUOTE >}}
+
 [^1]: [[@archival silence]] https://dictionary.archivists.org/entry/archival-silence.html
 
 In particular, archival silence often happens in collections relating to Indigenous people and enslaved people.
