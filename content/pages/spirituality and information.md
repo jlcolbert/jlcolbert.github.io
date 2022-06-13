@@ -25,9 +25,9 @@ Because in Buddhism, rebirth exists. [1b Not all knowledge systems will hear arc
 
 I've also encountered some pieces by Bob Doto recently that discuss spirituality and productivity[^1] and, right before I wrote this, how Tibetan Buddhist monastic debate is not just a form of creative expression but serves a similar purpose that writing does in cultures that write: "We don't know what we think until we express it."[^2] Writing is thinking.
 
-[^1]: [[@Spirit of Productivity]] by Bob Doto: [Spirit of Productivity](https://bobdoto.computer/Spirit-of-Productivity)
+[^1]: [[Spirit of Productivity]] by Bob Doto: [Spirit of Productivity](https://bobdoto.computer/Spirit-of-Productivity)
 
-[^2]: {{<tweet user="bianca_oli_per" id="1533500844431314945" >}}
+[^2]: {{< tweet user="bianca_oli_per" id="1533500844431314945" >}}
 
 -----
 
