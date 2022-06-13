@@ -1,10 +1,11 @@
 ---
 date: 2022-05-09
+icon: 🌱
 category: seedling
 title: archival silence
 tags:
 categories: seedling
-lastMod: 2022-05-09
+lastMod: 2022-06-12
 ---
 🌱 *seedling*
 

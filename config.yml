@@ -6,21 +6,21 @@ theme: "PaperMod"
 params:
   homeInfoParams:
     Title: 🍀 wilde at heart
-    Content: "welcome to my [🍀 digital garden](/pages/digital-garden/). you can walk any path you like, or you can learn more [about](/pages/about) me and this site."
+    Content: "welcome to my [🍀 digital garden](/pages/digital-garden/). you can walk any path you like, or you can learn more [about](/pages/about) me and this site. you can also view my garden as a [graph](/graph)."
 
   socialIcons: # optional
-    - name: "github"
-      url: "https://github.com/jlcolbert"
-    # - name: "youtube"
-    #   url: "https://www.youtube.com/channel/XXX"
     - name: "twitter"
       url: "https://twitter.com/_WildeAtHeart"
-    # - name: "kofi"
-    #   url: "https://buymeacoffee.com/XXX"
-    # - name: "rss"
-    #   url: "https://XXX.github.io/index.xml"
     - name: "webring"
       url: "https://webring.xxiivv.com/#wilde-at-heart"
+    - name: "github"
+      url: "https://github.com/jlcolbert"
+    - name: "rss"
+      url: "https://jlcolbert.github.io/index.xml"
+    # - name: "youtube"
+    #   url: "https://www.youtube.com/channel/XXX"
+    # - name: "kofi"
+    #   url: "https://buymeacoffee.com/XXX"
   ShowReadingTime: true
   ShowShareButtons: true
   # ShowPostNavLinks: true
@@ -59,8 +59,12 @@ menu:
     - identifier: search
       name: search
       url: /search/
-      weight: 20
+      weight: 30
     - identifier: archive
       name: archive
       url: /archives/
-      weight: 20
+      weight: 40
+    - identifier: graph
+      name: graph
+      url: /graph
+      weight: 50

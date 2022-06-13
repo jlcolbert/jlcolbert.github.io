@@ -3,22 +3,19 @@ date: 2022-05-26
 tags:
 - cyborgs
 - assemblages
-category:
-- Zettelkasten
-- evergreen
-title: 3 Creative works are cyborgs
-categories:
-- Zettelkasten
-- evergreen
-lastMod: 2022-05-26
+icon: 🔖
+category: Zettelkasten
+title: 4 Creative works are cyborgs
+categories: Zettelkasten
+lastMod: 2022-06-13
 ---
 Nothing we make is truly original. All creative work is inspired by something, draws from something, builds on something.
 
 As Tiago Forte says in the tweet below, creative work is _assembled_. Philosophically, assemblages are component parts brought together in a way that is fluid (not fixed). Donna Haraway uses the metaphor of [[cyborgs]][^1] or "making kin"[^2] for assemblages: you bring together things that might not otherwise fit together instead of resolving the tensions between them.
 
-[^1]: [[@A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century]]
+[^1]: [[A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century]] by [[Donna Haraway]]
 
-[^2]: [[@Staying with the Trouble: Making Kin in the Chthulucene]]
+[^2]: [[Staying with the trouble: making kin in the Chthulucene]] by [[Donna Haraway]]
 
 Therefore, when we create something, we are assembling a cyborg rather than reinforcing the boundaries of our inspirations and our ideas.
 

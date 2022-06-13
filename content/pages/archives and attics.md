@@ -1,10 +1,11 @@
 ---
 date: 2022-05-11
+icon: 🌱
 category: seedling
 title: archives and attics
 tags:
 categories: seedling
-lastMod: 2022-05-11
+lastMod: 2022-06-08
 ---
 🌱 *seedling*
 

@@ -1,13 +1,15 @@
 ---
 date: 2022-06-05
+icon: 🌱
 category: seedling
 tags:
 - pkm
 - Buddhism
 - aesthetics of information
+- spirituality
 title: spirituality and information
 categories: seedling
-lastMod: 2022-06-05
+lastMod: 2022-06-08
 ---
 🌱 _seedling_
 

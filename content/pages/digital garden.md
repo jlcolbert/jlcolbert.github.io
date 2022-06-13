@@ -1,10 +1,11 @@
 ---
 date: 2022-05-08
+icon: 🍀
 category: info
 title: digital garden
 tags:
 categories: info
-lastMod: 2022-05-08
+lastMod: 2022-06-08
 ---
 ### What is a digital garden?
 

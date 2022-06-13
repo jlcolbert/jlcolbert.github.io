@@ -3,17 +3,14 @@ title: Describing Absence The Complicated Power of Metadata Surrogates in Librar
 tags:
 - description and power
 - presentations
-date:
-- May 17th, 2022
+date: 2022-05-17
 category: blog
 showtoc: true
 format: article
 categories: blog
-lastMod: 2022-05-26
+lastMod: 2022-06-13
 ---
-> These are the speaker notes of a talk I gave at the [New Hampshire Archives Group Spring 2022 Workshop](https://web.archive.org/web/20220518013152/https://www.nhag.org/announcement-s22.html) on [[May 17th, 2022]][^1]
-
-[^1]: However, I will be retroactively making Zettels for my [Zettelkasten]({{< ref "Zettelkasten" >}}) out of the points I make here, and then some.
+> These are the speaker notes of a talk I gave at the [New Hampshire Archives Group Spring 2022 Workshop](https://web.archive.org/web/20220518013152/https://www.nhag.org/announcement-s22.html) on [[May 17th, 2022]]
 
 Good afternoon, everyone. Thank you for coming to my presentation when you could just leave and go outside. My name is Jay L. Colbert, and today I'll be presenting "Describing Absence: The Complicated Power of Metadata Surrogates in Libraries & Archives"
 
@@ -53,7 +50,7 @@ Instead, I like the definition from the Getty book Introduction to Metadata. Tha
 
 > "Perhaps a more useful, “big picture” way of thinking about metadata is as the sum total of what one can say at a given moment about any information object at any level of aggregation. In this context, an information object is anything that can be addressed and manipulated as a discrete entity by a human being or an information system. The object may be a single item, an aggregate of many items, or an entire database or record-keeping system. Indeed, in any given instance one can expect to find metadata relevant to any information object existing simultaneously at the item, aggregate, and system levels."[^2]
 
-[^2]: [[@Setting the Stage]] , [Introduction to Metadata](https://www.getty.edu/publications/intrometadata/setting-the-stage/)
+[^2]: [[Setting the Stage]] , [Introduction to Metadata](https://www.getty.edu/publications/intrometadata/setting-the-stage/)
 
 For example, your driver's license, if you have one, has metadata that describes you. But if you move, get a different class of license, etc, in ten years, that metadata will change.
 
@@ -75,7 +72,7 @@ An immediate example: this photo is from a collection of warped headshots from a
 
 {{< logseq/orgWARNING >}}Warning that the next slide has potentially upsetting language, and I will be discussing suicide. If you leave, I will not be offended. If you would like someone to bring you back in when I'm finished with the slide, that is okay, too. I will not find it disruptive or disrespectful.{{< / logseq/orgWARNING >}}
 
-The article [[@The Image of Absence: Archival Silence, Data Visualization, and James Hemings]] by Lauren F. Klein begins with an excerpt of a letter Thomas Jefferson wrote to his friend William Evans.
+The article [[The Image of Absence: Archival Silence]] by [[Lauren F. Klein]] begins with an excerpt of a letter Thomas Jefferson wrote to his friend William Evans.
 
 > You mentioned to me in conversation here that you sometimes saw my former servant James, & that he made his engagements such as to keep himself always free to come to me. Could I get the favor of you to send for him & tell him I shall be glad to receive him as soon as he can come to me?
 
@@ -91,7 +88,7 @@ A suggestion I made was to not authority control for Mormon settlers in photogra
 
 **If there are silences we cannot fix, make them loud.**
 
-[^4]: See [[@Queering the Catalog: Queer Theory and the Politics of Correction]] by Emily Drabinski
+[^4]: See [[Queering the Catalog: Queer Theory and the Politics of Correction]] by [[Emily Drabinski]]
 
 Finally, I want to tell you about Bibliographer B. A quick lesson about the study of Shakespeare Compositors. Particularly before WWII, a popular form of research in Shakespeare studies was looking at the folios and whatnot and trying to parse out who put it together and edited it, and if that person composited others. This takes a lot of linguistic analysis, studying how someone writes and spells, their editing choices, all that.
 
@@ -99,7 +96,7 @@ It should not be surprising, therefore, that, when some of these men fought in W
 
 > "But hiatus, to backtrack for a moment, is not the best word for what happened to American bibliographic study during the Second World War, for, as I want to suggest, compositor analysis was not so much suspended as produced by the war, in some important ways. Before the United States entered the war, Bowers “had been given secret instruction as a cryptanalyst in a naval communications group being formed at the university [of Virginia]”; during the war he moved to Washington “to supervise an intelligence unit working on deciphering enemy codes.” Among a number of prominent literary/bibliographic scholars, the unit included Charlton Hinman. Hinman in fact got the idea for the collating machine he later invented to compare Shakespeare folio pages from “the method followed in the intelligence unit for comparing successive photographs of enemy fortifications, to see whether changes had been made.”"[^5]
 
-[^5]: [[@Queer philologies: sex, language, and affect in Shakespeare's time]]
+[^5]: [[Queer philologies: sex, language, and affect in Shakespeare's time]] by [[Jeffrey Masten]]
 
 After, a little something called McCarthyism happens. Removing Communists from government positions and higher education. But also, there was the Lavender Scare, of also removing queer people from government positions and higher education.
 
@@ -113,7 +110,7 @@ This brings us to Bibliographer B, who studied Shakespeare Compositors at the Un
 
 The reports of his suicide also mention that he was found cleanly shaven and dressed, as if they expected him to be otherwise. The reports are basically doing everything but calling him a "confirmed bachelor." They don't say he's gay, but that silence tells us everything.
 
-Especially considering that a set of papers related to his death, including committee reports on his case, have been destroyed by the University of Virginia. Jeffrey Masten, the author of the book [[@Queer philologies: sex, language, and affect in Shakespeare's time]], contacted the special collections at UVA and learned that the documents were destroyed "according to the records management guidelines enacted by the Commonwealth of Virginia."
+Especially considering that a set of papers related to his death, including committee reports on his case, have been destroyed by the University of Virginia. Jeffrey Masten, the author of the book [[Queer philologies: sex, language, and affect in Shakespeare's time]] , contacted the special collections at UVA and learned that the documents were destroyed "according to the records management guidelines enacted by the Commonwealth of Virginia."
 
 {{< logseq/orgIMPORTANT >}}**As a result of the inquiry, UVA Special Collections deleted the record from the public catalog.**{{< / logseq/orgIMPORTANT >}}
 
@@ -154,13 +151,13 @@ In 2008, Brendan Hughes, a former IRA fighter, died.
 
 In 2010, Ed Moloney released a book which used Hughes' tapes. And in that was information about Jean McConville, a "Disappeared" woman assumed to be murdered by the IRA. Naturally, the tapes--now known to the public--were subpoenaed. And guess what? **The interviews had not been properly redacted nor did Boston College have a proper redaction policy.** An IRA member, Ivor Bell, was sentenced to a "trial of the facts" because of his deteriorating mental health. The judge ruled the Boston College tapes were not admissible, however, and Bell walked free.[^7]
 
-[^7]: [[@The Belfast Project: How an American University almost Started a Civil War – StMU Research Scholars]]
+[^7]: [[The Belfast Project: How an American University almost Started a Civil War]] by [[Andres Ruiz]]
 
 Then there's the Histories of Choice collection at Florida Gulf University, "an ethnographic recollection of Roe v. Wade that provides historical context of different perspectives and lived experiences centered around the theme of abortion." The issue: some of these oral histories contain information from when abortion was criminalized. And in our current climate, and even in some states currently, the information that might not be criminalized now could be in the future. How do we ensure access, including with our descriptive metadata, that will not result in criminalization? What is the statute of limitations? How can we protect these people?
 
 Their solution: staff members who were comfortable with the subject matter redacted PII: name, age, location, hometown, graduation year, etc. Then they would swap transcripts and do the redaction process again. The names of participants were also removed from all master metadata and accession records. All previous versions of the transcripts were deleted, as were the original audio recordings. The public record of the project is the only record in existence; there is no additional data for a legal entity to subpoena.[^8]
 
-[^8]: [[@Testimonies: The rewards and challenges of letting their voices be heard]]
+[^8]: [[Testimonies: The rewards and challenges of letting their voices be heard]] by [[Melissa Minds VandeBurgt]], [[Bailey Mae Rodgers]], and [[Kinsey Brown]]
 
 ### Government interference
 
@@ -187,7 +184,7 @@ What may sound like silence to us could actually be an orchestra to another cult
 
 In addition to there being cultures whose descriptive and archival practices differ from the dominant's, I argue that even within our culture there are ways of describing certain information and experiences better than could be done in a finding aid.
 
-An example and analysis I love comes from the article [[@Archiving the Wonders of Testosterone Via YouTube]] by Tobias Raun:
+An example and analysis I love comes from the article [[Archiving the Wonders of Testosterone Via YouTube]] by [[Tobias Raun]] :
 
 > The article engages with trans male video blogs on YouTube, framing them as living archives that offer unique opportunities to access and share embodied trans knowledges—which have previously been limited or inaccessible—such as information about and visual accounts of medical transitioning processes. **It is argued that archiving one’s transition works through a kind of performative documentation, partly documenting and partly instantiating the transformation by tracking and tracing the bodily changes.**[^10]
 

@@ -1,14 +1,11 @@
 ---
 date: 2022-05-25
-category:
-- Zettelkasten
-- evergreen
+icon: 🔖
+category: Zettelkasten
 title: 1a1 Archival silence is a tool
 tags:
-categories:
-- Zettelkasten
-- evergreen
-lastMod: 2022-05-26
+categories: Zettelkasten
+lastMod: 2022-06-08
 ---
 Rather than being necessarily good or bad, [archival silence]({{< ref "archival silence" >}}) is a tool. We should know when to wield it and when to fix when it happens.
 

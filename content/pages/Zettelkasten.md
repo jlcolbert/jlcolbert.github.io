@@ -1,10 +1,11 @@
 ---
 date: 2022-05-08
+icon: 🗃
 category: info
 title: Zettelkasten
 tags:
 categories: info
-lastMod: 2022-05-09
+lastMod: 2022-06-08
 ---
 ### What is a Zettelkasten?
 

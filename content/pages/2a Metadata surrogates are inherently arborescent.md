@@ -1,15 +1,12 @@
 ---
 date: 2022-05-25
+icon: 🔖
 tags:
 - rhizomes
-category:
-- Zettelkasten
-- evergreen
+category: Zettelkasten
 title: 2a Metadata surrogates are inherently arborescent
-categories:
-- Zettelkasten
-- evergreen
-lastMod: 2022-05-26
+categories: Zettelkasten
+lastMod: 2022-06-08
 ---
 Metadata surrogates are the descriptive record which stands in for the "original" item being cataloged. In this case, the "original" item would be the seed and the surrogate would be what grows and branches out from that original item. The surrogate is a representation of the original item.
 

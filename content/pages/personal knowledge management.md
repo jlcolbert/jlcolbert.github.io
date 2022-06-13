@@ -1,10 +1,13 @@
 ---
+alias:
+- pkm
 date: 2022-05-08
+icon: 🌱
 category: seedling
 title: personal knowledge management
 tags:
 categories: seedling
-lastMod: 2022-05-08
+lastMod: 2022-06-08
 ---
 🌱 *seedling*
 

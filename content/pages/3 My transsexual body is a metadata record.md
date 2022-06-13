@@ -1,14 +1,11 @@
 ---
 date: 2022-05-25
-category:
-- Zettelkasten
-- evergreen
+icon: 🔖
+category: Zettelkasten
 title: 3 My transsexual body is a metadata record
 tags:
-categories:
-- Zettelkasten
-- evergreen
-lastMod: 2022-05-26
+categories: Zettelkasten
+lastMod: 2022-06-12
 ---
 If metadata is the sum total of what can be said about any information object at any given time, then the bodies of trans people undergoing medical forms of transition are living, always-changing metadata records. They are the information object, and they are also what can be said about the information object.
 
@@ -17,7 +14,7 @@ If metadata is the sum total of what can be said about any information object at
 
 > It is argued that archiving one’s transition works through a kind of performative documentation, partly documenting and partly instantiating the transformation by tracking and tracing the bodily changes.[^1]
 
-[^1]: [[@Archiving the Wonders of Testosterone Via YouTube]] by Tobias Raun
+[^1]: [[Archiving the Wonders of Testosterone Via YouTube]] by [[Tobias Raun]]
 
 -----
 
