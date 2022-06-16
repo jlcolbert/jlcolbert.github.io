@@ -8,7 +8,7 @@ category: blog
 showtoc: true
 format: article
 categories: blog
-lastMod: 2022-06-13
+lastMod: 2022-06-07
 ---
 > These are the speaker notes of a talk I gave at the [New Hampshire Archives Group Spring 2022 Workshop](https://web.archive.org/web/20220518013152/https://www.nhag.org/announcement-s22.html) on [[May 17th, 2022]]
 

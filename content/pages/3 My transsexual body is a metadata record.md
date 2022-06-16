@@ -1,11 +1,13 @@
 ---
+alias:
+- 3/3 My transsexual body is a metadata record
+title: 3 My transsexual body is a metadata record
 date: 2022-05-25
 icon: 🔖
 category: Zettelkasten
-title: 3 My transsexual body is a metadata record
 tags:
 categories: Zettelkasten
-lastMod: 2022-06-12
+lastMod: 2022-06-16
 ---
 If metadata is the sum total of what can be said about any information object at any given time, then the bodies of trans people undergoing medical forms of transition are living, always-changing metadata records. They are the information object, and they are also what can be said about the information object.
 

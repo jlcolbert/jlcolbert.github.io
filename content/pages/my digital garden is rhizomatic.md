@@ -6,7 +6,7 @@ tags:
 - rhizomes
 title: my digital garden is rhizomatic
 categories: budding
-lastMod: 2022-06-12
+lastMod: 2022-06-08
 ---
 🌿 *budding* and almost ready to split into Zettels
 

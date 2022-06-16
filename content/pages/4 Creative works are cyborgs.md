@@ -1,13 +1,15 @@
 ---
+alias:
+- 4/4 Creative works are cyborgs
+title: 4 Creative works are cyborgs
 date: 2022-05-26
 tags:
 - cyborgs
 - assemblages
 icon: 🔖
 category: Zettelkasten
-title: 4 Creative works are cyborgs
 categories: Zettelkasten
-lastMod: 2022-06-13
+lastMod: 2022-06-16
 ---
 Nothing we make is truly original. All creative work is inspired by something, draws from something, builds on something.
 

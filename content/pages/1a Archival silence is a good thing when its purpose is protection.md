@@ -1,11 +1,13 @@
 ---
+alias:
+- 1/1a Archival silence is a good thing when its purpose is protection
+title: 1a Archival silence is a good thing when its purpose is protection
 date: 2022-05-25
 icon: 🔖
 category: Zettelkasten
-title: 1a Archival silence is a good thing when its purpose is protection
 tags:
 categories: Zettelkasten
-lastMod: 2022-06-08
+lastMod: 2022-06-16
 ---
 Having silences in our archives is good when people would be put in danger or have their privacy violated otherwise.
 
