@@ -36,4 +36,4 @@ This all has me thinking about spirituality as practice and information manageme
 
 [^1]: [[Spirit of Productivity]] by [[Bob Doto]]
 
-[^2]: {{< tweet user="bianca_oli_per" id="1533500844431314945" >}}
+[^2]: {{< tweet user="bianca_oli_per" 1533500844431314945" >}}
