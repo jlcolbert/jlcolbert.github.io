@@ -7,7 +7,7 @@ tags:
 - scrapbooking
 - archives
 category: Zettelkasten
-title: 6a2 Scrapbooks are a visual, emergent, and generative self-archive of a person's life and memories
+title: 6a2 scrapbooks are a visual, emergent, and generative self-archive of a person's life and memories
 categories: Zettelkasten
 lastMod: 2022-06-21
 ---
