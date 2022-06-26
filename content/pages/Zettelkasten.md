@@ -5,7 +5,7 @@ category: info
 title: Zettelkasten
 tags:
 categories: info
-lastMod: 2022-06-08
+lastMod: 2022-06-21
 ---
 ### What is a Zettelkasten?
 

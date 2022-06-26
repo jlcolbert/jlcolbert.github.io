@@ -1,6 +1,4 @@
 ---
-alias:
-- 5/5a The aesthetics of information affects our relationships to it
 title: 5a The aesthetics of information affects our relationships to it
 date: 2022-05-29
 tags:
@@ -9,7 +7,7 @@ tags:
 icon: 🔖
 category: Zettelkasten
 categories: Zettelkasten
-lastMod: 2022-06-16
+lastMod: 2022-06-21
 ---
 The visual components of both information and how we interact with information (such as using arrows to draw connections in the quotation below) reinforce the sensual aspect of working with information, knowledge, and metadata.
 In particular, this person's statement that they make their "thoughts hold hands" brings a physical and almost erotic element to how they visualize the network of their thinking.

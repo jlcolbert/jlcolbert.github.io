@@ -1,13 +1,11 @@
 ---
-alias:
-- 1/1 Archival silence is a problem when its purpose is oppression
 title: 1 Archival silence is a problem when its purpose is oppression
 date: 2022-05-25
 icon: 🔖
 category: Zettelkasten
 tags:
 categories: Zettelkasten
-lastMod: 2022-06-16
+lastMod: 2022-06-21
 ---
 Those in power and who hold capital will destroy, distort, and otherwise purposefully not collect information and create metadata about those they wish to silence and remove from any sort of historical record.
 

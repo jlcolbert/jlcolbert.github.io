@@ -1,13 +1,11 @@
 ---
-alias:
-- 2/2 Metadata surrogates have more value than what they are surrogates of in a capitalist society
 title: 2 Metadata surrogates have more value than what they are surrogates of in a capitalist society
 date: 2022-05-25
 icon: 🔖
 category: Zettelkasten
 tags:
 categories: Zettelkasten
-lastMod: 2022-06-16
+lastMod: 2022-06-21
 ---
 In a capitalist society, governments and corporations construct surrogates of us from the data they mine. And in a capitalist society, that data surrogate is more "real" and has more value than we do because it makes them money.
 

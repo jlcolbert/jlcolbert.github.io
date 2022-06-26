@@ -1,15 +1,14 @@
 ---
-alias:
-- 5/5 Metadata work is a sensual experience
 date: 2022-05-26
 tags:
 - aesthetics
+- aesthetics of information
 - labor
 icon: 🔖
 category: Zettelkasten
 title: 5 Metadata work is a sensual experience
 categories: Zettelkasten
-lastMod: 2022-06-20
+lastMod: 2022-06-21
 ---
 Interacting with information in any capacity triggers sensual responses and resonances in our bodies and minds (which are also our bodies). Metadata workers describe and organize knowledge and information. This requires tuning in to those pleasurable or otherwise sensual reactions as organizing principles.
 

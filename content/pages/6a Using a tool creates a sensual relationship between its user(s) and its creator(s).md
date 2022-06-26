@@ -1,6 +1,4 @@
 ---
-alias:
-- 6/6a Using a tool creates a sensual relationship between its user(s) and its creator(s)
 title: 6a Using a tool creates a sensual relationship between its user(s) and its creator(s)
 date: 2022-06-16
 icon: 🔖
@@ -9,7 +7,7 @@ tags:
 - cyborgs
 category: Zettelkasten
 categories: Zettelkasten
-lastMod: 2022-06-16
+lastMod: 2022-06-21
 ---
 The aesthetics of a tool can bring us joy, discomfort, peace, or any number of emotional responses. People made the decisions about the user interface, the possible workflows, the graphics and design, etc. with, one would hope, the end-user in mind. These emotional responses happen in the body and have various sensual responses. Culkin, making a pun on message, likens our tools to massages because of how they affect our sensual experience. Earlier, Culkin says that we shape our tools, suggesting that we are also shaping the "massages" in others and ourselves as well.
 

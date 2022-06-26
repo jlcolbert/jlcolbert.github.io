@@ -7,7 +7,7 @@ tags:
 - generative art
 title: longing release
 categories: art
-lastMod: 2022-06-08
+lastMod: 2022-06-21
 ---
 ![img-0-1653694686032-13503577833208.jpg](/assets/img-0-1653694686032-13503577833208_1653763927411_0.jpg)
 I made this piece as part of the "Concentrated Creativity" BASB alumni sprint.

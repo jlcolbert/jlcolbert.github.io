@@ -8,7 +8,7 @@ tags:
 category: seedling
 title: spirituality and information
 categories: seedling
-lastMod: 2022-06-16
+lastMod: 2022-06-21
 ---
 🌱 *seedling*
 

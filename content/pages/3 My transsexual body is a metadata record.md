@@ -1,13 +1,11 @@
 ---
-alias:
-- 3/3 My transsexual body is a metadata record
-title: 3 My transsexual body is a metadata record
 date: 2022-05-25
 icon: 🔖
 category: Zettelkasten
+title: 3 My transsexual body is a metadata record
 tags:
 categories: Zettelkasten
-lastMod: 2022-06-16
+lastMod: 2022-06-21
 ---
 If metadata is the sum total of what can be said about any information object at any given time, then the bodies of trans people undergoing medical forms of transition are living, always-changing metadata records. They are the information object, and they are also what can be said about the information object.
 
@@ -23,5 +21,3 @@ If metadata is the sum total of what can be said about any information object at
 - This is similar to how [1b Not all knowledge systems will hear archival silences the same way]({{< ref "1b Not all knowledge systems will hear archival silences the same way" >}}), in indigenous or otherwise colonized cultures.
 
 - If [2 Metadata surrogates have more value than what they are surrogates of in a capitalist society]({{< ref "2 Metadata surrogates have more value than what they are surrogates of in a capitalist society" >}}), then I am reclaiming that value by creating my own surrogate, rather than the only surrogate being the one constructed through governmental and corporate data collection.
-
-

@@ -7,7 +7,7 @@ category: seedling
 title: personal knowledge management
 tags:
 categories: seedling
-lastMod: 2022-06-08
+lastMod: 2022-06-21
 ---
 🌱 *seedling*
 

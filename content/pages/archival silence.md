@@ -5,7 +5,7 @@ category: seedling
 title: archival silence
 tags:
 categories: seedling
-lastMod: 2022-06-08
+lastMod: 2022-06-21
 ---
 🌱 *seedling*
 

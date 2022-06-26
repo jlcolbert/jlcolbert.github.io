@@ -1,6 +1,4 @@
 ---
-alias:
-- 4/4a Opera queens are embodied personal information management
 date: 2022-06-21
 icon: 🔖
 tags:
