@@ -38,7 +38,7 @@ The ability to reference/embed at the block level is what makes Logseq work so w
 
 And each individual highlight has its own block on that page, allowing me to embed and reference it when needed. The highlights don't exist out of context of their larger work, but I can still use them individually *in a way that is linked back to the larger context*.
 
-![Tweet highlights in Logseq](/assets/screen-recording-2022-06-26-at-1_1656264513852_0.gif)
+![Tweet highlights in Logseq](/assets/Screen-Recording-2022-06-26-at-1_1656264513852_0.gif)
 
 The integration also creates page links for the author of the larger work and the category (but I remove the category link). It brings in any tags you've made in Readwise for the larger work and the individual highlights and any notes you've made for each highlight. Finally, it provides external links to the original source if applicable, including links to individual tweets and Kindle locations.
 
