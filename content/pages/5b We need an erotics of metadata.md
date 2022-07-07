@@ -4,10 +4,12 @@ icon: 🔖
 tags:
 - aesthetics of information
 - labor
+- erotics
+- metadata
 category: Zettelkasten
 title: 5b We need an erotics of metadata
 categories: Zettelkasten
-lastMod: 2022-06-21
+lastMod: 2022-07-06
 ---
 Much of contemporary metadata scholarship focuses on the ethics of descriptive metadata, particularly classification systems. Rightly so. However, like Susan Sontag argues in her essay "Against Interpretation," I think the focus on ethics and its effects on end users has become more important than the metadata and the labor of the library worker. Instead of purely focusing on *ethics*, we if we focused on *aesthetics*. What insights will the open up about the nature of metadata work?
 
