@@ -88,7 +88,7 @@ When reviewing highlights, I'll add topic tags and notes as appropriate. After m
 
 I have some fleeting notes, and I decide to make a Zettel (or main note) out of one. Because what I want to say is usually *in response* to something else, I like to make a reference note for that something else. If the source is not already in my Zotero library, I add it. Then, I make a page for that reference in Logseq via the Zotero integration. If I also have Readwise highlights for that reference, I put a page reference in the reference note to the highlights page.
 
-![Screen Shot 2022-06-26 at 3.13.58 PM.png](/assets/screen_shot_2022-06-26_at_3.13.58_pm_1656270872003_0.png)
+![Screen Shot 2022-06-26 at 3.13.58 PM.png](/assets/Screen_Shot_2022-06-26_at_3.13.58_PM_1656270872003_0.png)
 
 Now, when I write my Zettel, I can cite my source by linking to my reference note.
 
@@ -110,7 +110,7 @@ Sometimes, I will review highlights to see what tags or notes I might add. I use
 
 I don't tag every note that comes up. Just like when I'm reading, I only try to add tags or notes that are relevant to a current interest of mine. I don't need to tag [this incredible tweet of David Duchovny on Celebrity Jeopardy](https://twitter.com/yacobg42/status/1325500299440754690?s=20&t=gT9ckEjkcf-jc8eLEjqpUg) with "frogs" or "X-Files." But if I see something that is related to a topic, I'll tag it or add a related existing page.
 
-![Screen Shot 2022-06-26 at 3.58.32 PM.png](/assets/Screen_Shot_2022-06-26_at_3.58.32_PM_1656273551693_0.png)
+![Screen Shot 2022-06-26 at 3.58.32 PM.png](/assets/screen_shot_2022-06-26_at_3.58.32_pm_1656273551693_0.png)
 
 -----
 
