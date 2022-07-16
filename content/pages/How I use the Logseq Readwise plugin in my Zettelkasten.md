@@ -92,7 +92,7 @@ I have some fleeting notes, and I decide to make a Zettel (or main note) out of 
 
 Now, when I write my Zettel, I can cite my source by linking to my reference note.
 
-![Screen Shot 2022-06-26 at 3.24.06 PM.png](/assets/Screen_Shot_2022-06-26_at_3.24.06_PM_1656271502787_0.png)
+![Screen Shot 2022-06-26 at 3.24.06 PM.png](/assets/screen_shot_2022-06-26_at_3.24.06_pm_1656271502787_0.png)
 
 I don't link to the Readwise highlights page, but because that page is linked in my reference note, a link is created between it and my main note I've just written. I can also do block references with specific highlights I want to use as quotations. However, I don't do this because I publish my Zettelkasten online, and it can only handle block references to other pages I've published; I don't put my Readwise highlights or reference notes online. There is a Logseq plugin which allows you to swap a block reference and a block, but when I've tried it in this workflow, the block id gets included in the Hugo-compatible Markdown.
 

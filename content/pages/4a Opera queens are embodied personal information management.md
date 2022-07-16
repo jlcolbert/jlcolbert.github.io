@@ -19,7 +19,6 @@ Instead of using [personal knowledge management]({{< ref "personal knowledge man
 
 > Opera queens catalogue their highs; they don't categorize or explain. Memoirs of operagoing take the form of laterally spreading reminiscences, on after another, with no sequence except chronology.[^1]
 
-id:: 62b26fba-427b-472b-848c-f30df270d53e
 > List-making is a prophylaxis against loss. Lists perform sympathetic magic: we want names (of operas, theaters, divas, roles) to be corproreal.[^1]
 
 [^1]: [[The Queen's throat: opera, homosexuality, and the mystery of desire]] by [[Wayne Koestenbaum]]
