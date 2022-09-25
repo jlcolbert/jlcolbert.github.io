@@ -50,7 +50,7 @@ I obviously did not participate then. But I heard about Infinite Summer in colle
 
 In all the years I've attempted since then, I usually get about 10 days in before I fall off the wagon so to speak.
 
-This time, I bought the eBook. That way, I could read right when I woke up, or during a work break, etc. Way easier than lugging that giant tome around with like 6 bookmarks. But don't you worry—I have the physical book with extensive notes in it.
+This time, I bought the eBook. That way, I could read right when I woke up, or during a work break, etc. Way easier than lugging that giant tome around with like 6 bookmarks.
 
 There were days I didn't follow the schedule. In particular, I missed a few weeks because my schedule no longer allowed for me to read in the morning. But even though I missed more than two days in a row,[^1] I always managed to carve out some time to get caught up.
 
